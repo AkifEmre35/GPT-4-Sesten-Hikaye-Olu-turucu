@@ -7,7 +7,7 @@ from pydub import AudioSegment
 import time
 
 # API anahtarınızı buraya ekleyin
-openai.api_key = "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"
+openai.api_key = "GPT API ANAHTARINIZ"
 recognizer = sr.Recognizer()
 
 # Mikrofonu başlatın
