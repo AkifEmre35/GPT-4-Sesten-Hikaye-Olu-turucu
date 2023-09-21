@@ -33,19 +33,19 @@ pip install pydub
 1. Bu GitHub deposunu klonlayın:
 
 ```bash
-git clone https://github.com/sesliasistan-projesi.git
+git clone https://github.com/AkifEmre35/GPT-4-Sesten-Hikaye-Olu-turucu.git
 ```
 
 2. Proje klasörüne gidin:
 
 ```bash
-cd sesliasistan-projesi
+cd GPT-4-Sesten-Hikaye-Olu-turucu
 ```
 
 3. Python betiğini çalıştırın:
 
 ```bash
-python sesli_asistan.py
+python3 gpt-4_metin_olusturma.py
 ```
 
 Bu adımları tamamladığınızda, sesli asistanı kullanmaya başlayabilirsiniz.
