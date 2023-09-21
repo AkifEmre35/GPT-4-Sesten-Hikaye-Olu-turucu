@@ -19,7 +19,7 @@ Projenin çalışması için aşağıdaki Python kütüphanelerine ihtiyacınız
 - `gtts`: Metni ses dosyasına dönüştürmek için.
 - `pydub`: Ses dosyalarını işlemek için.
 
-Bu kütüphaneleri kurmak için şu komutları kullanabilirsiniz:
+## Bu kütüphaneleri kurmak için şu komutları kullanabilirsiniz:
 ```bash
 pip install openai
 ```
@@ -67,9 +67,4 @@ Eğer bu projeye katkıda bulunmak isterseniz, aşağıdaki adımları izleyebil
 2. Kendi deponuza çataldığınız projeyi klonlayın.
 3. Yeni özellikler ekleyin veya hataları düzeltin.
 4. Değişikliklerinizi bir çatalda (branch) yapın ve bir çekme isteği (pull request) gönderin.
-
-## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakın.
-
 ```
