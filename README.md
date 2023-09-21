@@ -23,8 +23,14 @@ Bu kütüphaneleri kurmak için şu komutları kullanabilirsiniz:
 
 ```bash
 pip install openai
+```
+```bash
 pip install SpeechRecognition
+```
+```bash
 pip install gTTS
+```
+```bash
 pip install pydub
 ```
 
