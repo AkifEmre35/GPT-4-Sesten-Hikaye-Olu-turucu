@@ -20,7 +20,6 @@ Projenin çalışması için aşağıdaki Python kütüphanelerine ihtiyacınız
 - `pydub`: Ses dosyalarını işlemek için.
 
 Bu kütüphaneleri kurmak için şu komutları kullanabilirsiniz:
-
 ```bash
 pip install openai
 ```
